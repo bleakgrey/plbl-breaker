@@ -1,0 +1,8 @@
+export enum GameServices {
+	INVALID,
+	WORLD_CAMERA,
+	UI_CAMERA,
+	UI_CANVAS,
+	UI_CONTAINER,
+	DESTRUCTIBLE,
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a0e59a15-b8a0-4bb6-bde7-8ddf01c54b6a",
+  "files": [],
+  "subMetas": {
+    "c244a": {
+      "importer": "gltf-mesh",
+      "uuid": "a0e59a15-b8a0-4bb6-bde7-8ddf01c54b6a@c244a",
+      "displayName": "",
+      "id": "c244a",
+      "name": "Cylinder.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 430
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4433": {
+      "importer": "gltf-material",
+      "uuid": "a0e59a15-b8a0-4bb6-bde7-8ddf01c54b6a@b4433",
+      "displayName": "",
+      "id": "b4433",
+      "name": "T_weapons.002.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7e5c3": {
+      "importer": "gltf-scene",
+      "uuid": "a0e59a15-b8a0-4bb6-bde7-8ddf01c54b6a@7e5c3",
+      "displayName": "",
+      "id": "7e5c3",
+      "name": "hammah.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "a0e59a15-b8a0-4bb6-bde7-8ddf01c54b6a@c244a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a0e59a15-b8a0-4bb6-bde7-8ddf01c54b6a@b4433"
+      ],
+      "scenes": [
+        "a0e59a15-b8a0-4bb6-bde7-8ddf01c54b6a@7e5c3"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

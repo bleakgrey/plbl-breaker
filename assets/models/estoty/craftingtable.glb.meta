@@ -1,0 +1,75 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "beaab4e5-045c-412b-bc4f-1651e16343de",
+  "files": [],
+  "subMetas": {
+    "75821": {
+      "importer": "gltf-scene",
+      "uuid": "beaab4e5-045c-412b-bc4f-1651e16343de@75821",
+      "displayName": "",
+      "id": "75821",
+      "name": "craftingtable.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "46fe8": {
+      "importer": "gltf-mesh",
+      "uuid": "beaab4e5-045c-412b-bc4f-1651e16343de@46fe8",
+      "displayName": "",
+      "id": "46fe8",
+      "name": "Cube.159.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 1277
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "beaab4e5-045c-412b-bc4f-1651e16343de@46fe8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "beaab4e5-045c-412b-bc4f-1651e16343de@75821"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

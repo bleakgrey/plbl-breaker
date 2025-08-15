@@ -1,0 +1,75 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "0cfc02d0-93f3-457d-af60-a9367d0d8c72",
+  "files": [],
+  "subMetas": {
+    "faad7": {
+      "importer": "gltf-mesh",
+      "uuid": "0cfc02d0-93f3-457d-af60-a9367d0d8c72@faad7",
+      "displayName": "",
+      "id": "faad7",
+      "name": "Cylinder.003.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 412
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1e034": {
+      "importer": "gltf-scene",
+      "uuid": "0cfc02d0-93f3-457d-af60-a9367d0d8c72@1e034",
+      "displayName": "",
+      "id": "1e034",
+      "name": "pipe.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "0cfc02d0-93f3-457d-af60-a9367d0d8c72@faad7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0cfc02d0-93f3-457d-af60-a9367d0d8c72@1e034"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "b4ed54b4-6fdf-47c2-a3a0-95f943b58fdb",
+  "files": [],
+  "subMetas": {
+    "27ee6": {
+      "importer": "gltf-mesh",
+      "uuid": "b4ed54b4-6fdf-47c2-a3a0-95f943b58fdb@27ee6",
+      "displayName": "",
+      "id": "27ee6",
+      "name": "Cube.194.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 338
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "82c03": {
+      "importer": "gltf-scene",
+      "uuid": "b4ed54b4-6fdf-47c2-a3a0-95f943b58fdb@82c03",
+      "displayName": "",
+      "id": "82c03",
+      "name": "bush.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "b4ed54b4-6fdf-47c2-a3a0-95f943b58fdb@27ee6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "b4ed54b4-6fdf-47c2-a3a0-95f943b58fdb@82c03"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f924666c-a377-4172-b0c1-a2a12ca727c4",
+  "files": [],
+  "subMetas": {
+    "fe13b": {
+      "importer": "gltf-mesh",
+      "uuid": "f924666c-a377-4172-b0c1-a2a12ca727c4@fe13b",
+      "displayName": "",
+      "id": "fe13b",
+      "name": "Cube.949.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 170
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "85fe4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "f924666c-a377-4172-b0c1-a2a12ca727c4@85fe4",
+      "displayName": "",
+      "id": "85fe4",
+      "name": "citybits_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "f924666c-a377-4172-b0c1-a2a12ca727c4@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7c2e8538-5e3f-4af6-ac4d-f17907b38371"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "319cb": {
+      "importer": "gltf-material",
+      "uuid": "f924666c-a377-4172-b0c1-a2a12ca727c4@319cb",
+      "displayName": "",
+      "id": "319cb",
+      "name": "citybits_texture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7179": {
+      "importer": "gltf-scene",
+      "uuid": "f924666c-a377-4172-b0c1-a2a12ca727c4@d7179",
+      "displayName": "",
+      "id": "d7179",
+      "name": "road_junction.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "citybits_texture",
+        "remap": "7c2e8538-5e3f-4af6-ac4d-f17907b38371",
+        "uri": "f924666c-a377-4172-b0c1-a2a12ca727c4@85fe4"
+      }
+    ],
+    "assetFinder": {
+      "meshes": [
+        "f924666c-a377-4172-b0c1-a2a12ca727c4@fe13b"
+      ],
+      "skeletons": [],
+      "textures": [
+        "f924666c-a377-4172-b0c1-a2a12ca727c4@e39f7"
+      ],
+      "materials": [
+        "f924666c-a377-4172-b0c1-a2a12ca727c4@319cb"
+      ],
+      "scenes": [
+        "f924666c-a377-4172-b0c1-a2a12ca727c4@d7179"
+      ]
+    },
+    "promoteSingleRootNode": true,
+    "useVertexColors": false,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

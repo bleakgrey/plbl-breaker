@@ -1,0 +1,75 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "72b85d40-767f-48c5-b39e-862ce0a72ec1",
+  "files": [],
+  "subMetas": {
+    "67e63": {
+      "importer": "gltf-mesh",
+      "uuid": "72b85d40-767f-48c5-b39e-862ce0a72ec1@67e63",
+      "displayName": "",
+      "id": "67e63",
+      "name": "Cube.218.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 486
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "80f19": {
+      "importer": "gltf-scene",
+      "uuid": "72b85d40-767f-48c5-b39e-862ce0a72ec1@80f19",
+      "displayName": "",
+      "id": "80f19",
+      "name": "tree_small.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "72b85d40-767f-48c5-b39e-862ce0a72ec1@67e63"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "72b85d40-767f-48c5-b39e-862ce0a72ec1@80f19"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

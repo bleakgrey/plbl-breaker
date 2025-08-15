@@ -1,0 +1,75 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "8fd4902e-0811-4815-a394-9b48632a8791",
+  "files": [],
+  "subMetas": {
+    "2ba06": {
+      "importer": "gltf-mesh",
+      "uuid": "8fd4902e-0811-4815-a394-9b48632a8791@2ba06",
+      "displayName": "",
+      "id": "2ba06",
+      "name": "Circle.003.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 810
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e673d": {
+      "importer": "gltf-scene",
+      "uuid": "8fd4902e-0811-4815-a394-9b48632a8791@e673d",
+      "displayName": "",
+      "id": "e673d",
+      "name": "hook.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "8fd4902e-0811-4815-a394-9b48632a8791@2ba06"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "8fd4902e-0811-4815-a394-9b48632a8791@e673d"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

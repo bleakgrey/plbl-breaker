@@ -1,0 +1,46 @@
+{
+  "ver": "1.0.27",
+  "importer": "image",
+  "imported": true,
+  "uuid": "b03a5234-bd33-4f46-9db5-03523a35068e",
+  "files": [
+    ".json",
+    ".png"
+  ],
+  "subMetas": {
+    "6c48a": {
+      "importer": "texture",
+      "uuid": "b03a5234-bd33-4f46-9db5-03523a35068e@6c48a",
+      "displayName": "kenney_colormap",
+      "id": "6c48a",
+      "name": "texture",
+      "userData": {
+        "wrapModeS": "clamp-to-edge",
+        "wrapModeT": "clamp-to-edge",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "b03a5234-bd33-4f46-9db5-03523a35068e",
+        "visible": false
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "type": "texture",
+    "fixAlphaTransparencyArtifacts": true,
+    "hasAlpha": false,
+    "redirect": "b03a5234-bd33-4f46-9db5-03523a35068e@6c48a",
+    "compressSettings": {
+      "useCompressTexture": true,
+      "presetId": "a5rqZvHKFEroVmS/tWskZV"
+    }
+  }
+}

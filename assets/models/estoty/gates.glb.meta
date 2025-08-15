@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "ea9e369b-2a03-4a4f-8651-d2dcf3cdbcb2",
+  "files": [],
+  "subMetas": {
+    "32996": {
+      "importer": "gltf-mesh",
+      "uuid": "ea9e369b-2a03-4a4f-8651-d2dcf3cdbcb2@32996",
+      "displayName": "",
+      "id": "32996",
+      "name": "Cube.101.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 688
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "158f4": {
+      "importer": "gltf-material",
+      "uuid": "ea9e369b-2a03-4a4f-8651-d2dcf3cdbcb2@158f4",
+      "displayName": "",
+      "id": "158f4",
+      "name": "T_props.002.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cfbd5": {
+      "importer": "gltf-scene",
+      "uuid": "ea9e369b-2a03-4a4f-8651-d2dcf3cdbcb2@cfbd5",
+      "displayName": "",
+      "id": "cfbd5",
+      "name": "gates.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "assetFinder": {
+      "meshes": [
+        "ea9e369b-2a03-4a4f-8651-d2dcf3cdbcb2@32996"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ea9e369b-2a03-4a4f-8651-d2dcf3cdbcb2@158f4"
+      ],
+      "scenes": [
+        "ea9e369b-2a03-4a4f-8651-d2dcf3cdbcb2@cfbd5"
+      ]
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}

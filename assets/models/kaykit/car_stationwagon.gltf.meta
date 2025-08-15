@@ -1,0 +1,218 @@
+{
+  "ver": "2.3.13",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d",
+  "files": [],
+  "subMetas": {
+    "37f03": {
+      "importer": "gltf-mesh",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@37f03",
+      "displayName": "",
+      "id": "37f03",
+      "name": "Cylinder.287.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 144
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "05b69": {
+      "importer": "gltf-mesh",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@05b69",
+      "displayName": "",
+      "id": "05b69",
+      "name": "Cylinder.289.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 144
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bd2ef": {
+      "importer": "gltf-mesh",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@bd2ef",
+      "displayName": "",
+      "id": "bd2ef",
+      "name": "Cylinder.288.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 144
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0267a": {
+      "importer": "gltf-mesh",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@0267a",
+      "displayName": "",
+      "id": "0267a",
+      "name": "Cylinder.290.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 144
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c7119": {
+      "importer": "gltf-mesh",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@c7119",
+      "displayName": "",
+      "id": "c7119",
+      "name": "Cube.13728.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 658
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "85fe4": {
+      "importer": "gltf-embeded-image",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@85fe4",
+      "displayName": "",
+      "id": "85fe4",
+      "name": "citybits_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e39f7": {
+      "importer": "texture",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@e39f7",
+      "displayName": "",
+      "id": "e39f7",
+      "name": "UnnamedTexture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "linear",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "7c2e8538-5e3f-4af6-ac4d-f17907b38371"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "319cb": {
+      "importer": "gltf-material",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@319cb",
+      "displayName": "",
+      "id": "319cb",
+      "name": "citybits_texture.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73d57": {
+      "importer": "gltf-scene",
+      "uuid": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@73d57",
+      "displayName": "",
+      "id": "73d57",
+      "name": "car_stationwagon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "citybits_texture",
+        "remap": "7c2e8538-5e3f-4af6-ac4d-f17907b38371",
+        "uri": "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@85fe4"
+      }
+    ],
+    "assetFinder": {
+      "meshes": [
+        "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@37f03",
+        "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@05b69",
+        "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@bd2ef",
+        "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@0267a",
+        "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@c7119"
+      ],
+      "skeletons": [],
+      "textures": [
+        "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@e39f7"
+      ],
+      "materials": [
+        "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@319cb"
+      ],
+      "scenes": [
+        "3a8aeb07-f2d0-497f-9ba1-90c50ca07b8d@73d57"
+      ]
+    },
+    "promoteSingleRootNode": true,
+    "useVertexColors": false,
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    }
+  }
+}
